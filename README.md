@@ -3,5 +3,3 @@ Skills:
 - CSS (Sass)
 - JS
 - React
-- Git
-- C++
