@@ -1,6 +1,7 @@
 Skills:
 - HTML
-- CSS (SCSS)
+- CSS (Sass)
 - JS
 - React
 - Git
+- C++
